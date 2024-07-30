@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeavePortal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a20f031d847f9ba46bbd1df4e0d8f8b6ff1802c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeavePortal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeavePortal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
