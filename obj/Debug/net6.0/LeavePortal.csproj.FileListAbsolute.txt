@@ -1,0 +1,1362 @@
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\appsettings.Development.json
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\appsettings.json
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.staticwebassets.runtime.json
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.exe
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.deps.json
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.runtimeconfig.json
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.pdb
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Humanizer.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\MessagePack.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Build.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Common.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyWokings\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.csproj.AssemblyReference.cache
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.AssemblyInfoInputs.cache
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.AssemblyInfo.cs
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.csproj.CoreCompileInputs.cache
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.MvcApplicationPartsAssemblyInfo.cs
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.MvcApplicationPartsAssemblyInfo.cache
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.RazorAssemblyInfo.cache
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.RazorAssemblyInfo.cs
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets.build.json
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets.development.json
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.LeavePortal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.build.LeavePortal.props
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LeavePortal.props
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LeavePortal.props
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\scopedcss\bundle\LeavePortal.styles.css
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\scopedcss\projectbundle\LeavePortal.bundle.scp.css
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.csproj.CopyComplete
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.dll
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\refint\LeavePortal.dll
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.pdb
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.genruntimeconfig.cache
+E:\MyWokings\LeavePortal\LeavePortal\obj\Debug\net6.0\ref\LeavePortal.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\appsettings.json
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.staticwebassets.runtime.json
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.exe
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.deps.json
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.runtimeconfig.json
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.pdb
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.csproj.AssemblyReference.cache
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.AssemblyInfoInputs.cache
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.AssemblyInfo.cs
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.csproj.CoreCompileInputs.cache
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.RazorAssemblyInfo.cache
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.RazorAssemblyInfo.cs
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.LeavePortal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.build.LeavePortal.props
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LeavePortal.props
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LeavePortal.props
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\scopedcss\bundle\LeavePortal.styles.css
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\scopedcss\projectbundle\LeavePortal.bundle.scp.css
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePor.1F661880.Up2Date
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\refint\LeavePortal.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.pdb
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.genruntimeconfig.cache
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\ref\LeavePortal.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Testing.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.TestHost.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Asad ilyas\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\appsettings.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.staticwebassets.runtime.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.exe
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.deps.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.runtimeconfig.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\LeavePortal.pdb
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Humanizer.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\MessagePack.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Testing.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.AspNetCore.TestHost.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.csproj.AssemblyReference.cache
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.AssemblyInfoInputs.cache
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.AssemblyInfo.cs
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.csproj.CoreCompileInputs.cache
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.RazorAssemblyInfo.cache
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.RazorAssemblyInfo.cs
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.LeavePortal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.build.LeavePortal.props
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LeavePortal.props
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LeavePortal.props
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\scopedcss\bundle\LeavePortal.styles.css
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\scopedcss\projectbundle\LeavePortal.bundle.scp.css
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePor.1F661880.Up2Date
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\refint\LeavePortal.dll
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.pdb
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\LeavePortal.genruntimeconfig.cache
+C:\Users\krish\Desktop\LeavePortal\LeavePortal\obj\Debug\net6.0\ref\LeavePortal.dll

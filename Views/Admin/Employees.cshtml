@@ -1,0 +1,153 @@
+﻿@model IEnumerable<LeavePortal.Utility.UsersVM>
+@{
+    ViewData["Title"] = "Employees";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Dashborad</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="@Url.Action("Index","Admin")">Home</a></li>
+                    <li class="breadcrumb-item active">Employees</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title" style="float: left">List of Employees</h3>
+                        <a asp-action="AddEmployee" style="float: right;" class="btn btn-primary btn-sm">Add New Employee</a>
+                    </div>
+                    <div class="card-body">
+                        <table id="EmployeeDataTable" width="100%" class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Email</th>
+                                    <th>Mobile</th>
+                                    <th>NRIC No</th>
+                                    <th>Start Date</th>
+                                    <th>Department</th>
+                                    <th>Position</th>
+                                    @if (User.IsInRole("Admin"))
+                                    {
+                                        <th>Permissions</th>
+                                    }
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.Name</td>
+                                        <td>@item.Email</td>
+                                        <td>@item.Mobile</td>
+                                        <td>@item.NRICNo</td>
+                                        <td>@item.StartDate</td>
+                                        <td>@item.Department</td>
+                                        <td>@item.Role</td>
+                                        @if (User.IsInRole("Admin"))
+                                        {
+                                            <td>
+                                                <a href="/Modules/UpsertPermissions?userId=@item.Id" class="btn btn-info">
+                                                    <i class="fa fa-sliders" aria-hidden="true"></i>
+                                                </a>
+                                            </td>
+                                        }
+                                        <td>
+                                            <a asp-action="EditEmployee" asp-controller="Admin" asp-route-id="@item.Id" class="btn btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                            <a href="javascript:void(0)" onclick="Delete('@item.Id')" class="btn btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                        </td>
+                                       
+                                    </tr>
+                                }
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            if (!$.fn.DataTable.isDataTable('#EmployeeDataTable')) {
+                $('#EmployeeDataTable').DataTable({
+                    autoWidth: false,
+                    columnDefs: [
+                        {
+                            targets: ['_all'],
+                            className: 'mdc-data-table__cell',
+                        },
+                    ],
+                    dom: 'Bfrtip',
+                    buttons: [
+                       
+                        {
+                            extend: 'excel',
+                            exportOptions: {
+                                columns: [0, 1, 2, 3, 4, 5, 6]
+                            }
+                        }
+                    ]
+                });
+            }
+        });
+
+
+
+        function Delete(id) {
+            swal({
+                title: "Are you sure?",
+                text: "You will not be able to recover this imaginary file!",
+                icon: "warning",
+                buttons: true,
+                dangerMode: true,
+            })
+                .then((willDelete) => {
+                    if (willDelete) {
+                        $.ajax({
+                            url: "/Admin/DeleteEmployee",
+                            type: "POST",
+                            data: {
+                                id: id
+                            },
+                            dataType: "json",
+                            success: function () {
+                                swal("Done!", "It was successfully deleted!", "success")
+                                    .then(() => {
+                                        window.location.href = '../Admin/Employees';
+                                    });
+                            },
+                            error: function (xhr, ajaxOptions, thrownError) {
+                                if (xhr.status === 403) {
+                                    swal("Access Denied", "You do not have permission to delete this item.", "error");
+                                } else {
+                                    swal("Error deleting!", "Please try again", "error");
+                                }
+                            }
+                        });
+                    } else {
+                        swal("Your imaginary file is safe!");
+                    }
+                });
+        }
+
+    </script>
+}

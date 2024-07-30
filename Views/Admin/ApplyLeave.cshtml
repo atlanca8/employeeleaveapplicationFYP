@@ -1,0 +1,254 @@
+﻿@model LeavePortal.Utility.AddLeavesVM
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+
+    #CategoryList > li > label {
+        display: inline-block;
+        font-weight: 400 !important;
+    }
+
+    .preview-image-wrapper {
+        background: #fafbfc;
+        border: 1px solid rgba(195, 207, 216, .3);
+        display: inline-block;
+        height: 150px;
+        max-height: 150px;
+        max-width: 150px;
+        min-height: 150px;
+        min-width: 150px;
+        overflow: hidden;
+        position: relative;
+        text-align: center;
+        vertical-align: middle;
+        width: 150px;
+    }
+
+        .preview-image-wrapper img {
+            height: 150px;
+            max-width: 100%;
+        }
+
+    .btn_remove_image,
+    .btn_remove {
+        background: #ddd;
+        border-radius: 50% !important;
+        color: #000;
+        display: inline-block;
+        font-size: 18px;
+        height: 30px;
+        line-height: 30px;
+        position: absolute;
+        right: 5px;
+        text-align: center;
+        top: 5px;
+        width: 30px;
+    }
+
+    .image-box-actions a {
+        color: #337ab7 !important;
+        text-shadow: none !important;
+    }
+
+    .card-danger:not(.card-outline) > .card-header {
+        background-color: #4b545c !important;
+    }
+
+    #image_preview {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(160px, 160px));
+        width: 100%;
+        gap: 20px;
+    }
+
+    .image-box-actions {
+        text-align: center;
+        margin: 10px 0;
+    }
+
+        .image-box-actions a {
+            border: 1px solid #eee;
+            padding: 5px 20px;
+            text-transform: uppercase;
+            font-size: 14px;
+        }
+
+            .image-box-actions a:hover {
+                box-shadow: 1px 1px 180px #dc3545 inset;
+                color: #fff !important;
+            }
+
+    input[type="checkbox"] {
+        transform: scale(1.5);
+        margin-right: 15px;
+    }
+</style>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        $(document).ready(function () {
+            // Initial visibility based on default selected value
+            var selectedValue = $('input[name="Duration"]:checked').val();
+            if (selectedValue === 'single_day') {
+                $('#single_day_group').show();
+                $('#hours_group').hide();
+                $('#multiple_days_group').hide();
+            } else if (selectedValue === 'hours') {
+                $('#single_day_group').hide();
+                $('#hours_group').show();
+                $('#multiple_days_group').hide();
+            } else if (selectedValue === 'multiple_days') {
+                $('#single_day_group').hide();
+                $('#hours_group').hide();
+                $('#multiple_days_group').show();
+            }
+
+            // Change event handler for radio buttons
+            $('input[name="Duration"]').change(function () {
+                var selectedValue = $(this).val();
+                if (selectedValue === 'single_day') {
+                    $('#single_day_group').show();
+                    $('#hours_group').hide();
+                    $('#multiple_days_group').hide();
+                } else if (selectedValue === 'hours') {
+                    $('#single_day_group').hide();
+                    $('#hours_group').show();
+                    $('#multiple_days_group').hide();
+                } else if (selectedValue === 'multiple_days') {
+                    $('#single_day_group').hide();
+                    $('#hours_group').hide();
+                    $('#multiple_days_group').show();
+                }
+            });
+        });
+    </script>
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Dashboard</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="@Url.Action("Index", "User")">Home</a></li>
+                    <li class="breadcrumb-item active">Apply Leave</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="content">
+    <div class="container-fluid">
+        <form id="form" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card card-danger">
+                        <div class="card-header">
+                            <h3 class="card-title">Apply Leave</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="LeaveTypeId">Leave Type <span class="text-danger">*</span></label>
+                                        <select asp-for="LeaveTypeId" class="form-control" asp-items="@ViewBag.LeaveTypes">
+                                            <option selected disabled>Select Leave Type</option>
+                                        </select>
+                                        <span asp-validation-for="LeaveTypeId" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label for="Duration">Duration <span class="text-danger">*</span></label>
+                                        <div class="ml-5">
+                                            <div class="form-check form-check-inline">
+                                                <input type="radio" asp-for="Duration" value="single_day" id="duration_single_day" class="form-check-input" checked>
+                                                <label for="duration_single_day" class="form-check-label">Single day</label>
+                                            </div>
+                                            <div class="form-check form-check-inline">
+                                                <input type="radio" asp-for="Duration" value="multiple_days" id="duration_multiple_days" class="form-check-input">
+                                                <label for="duration_multiple_days" class="form-check-label">Multiple days</label>
+                                            </div>
+                                            <div class="form-check form-check-inline">
+                                                <input type="radio" asp-for="Duration" value="hours" id="duration_hours" class="form-check-input">
+                                                <label for="duration_hours" class="form-check-label">Hours</label>
+                                            </div>
+                                        </div>
+                                        <span asp-validation-for="Duration" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group" id="single_day_group">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="Date">Date <span class="text-danger">*</span></label>
+                                        <input type="date" asp-for="Date" class="form-control" placeholder="Date">
+                                        <span asp-validation-for="Date" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group" id="hours_group">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="StartDate">Date <span class="text-danger">*</span></label>
+                                        <input type="date" asp-for="StartDate" class="form-control" placeholder="Start Date">
+                                        <span asp-validation-for="StartDate" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label for="LeaveHours">Hours <span class="text-danger">*</span></label>
+                                        <select asp-for="LeaveHours" class="form-control">
+                                            <option selected value="02">02</option>
+                                            <option value="03">03</option>
+                                            <option value="04">04</option>
+                                            <option value="05">05</option>
+                                            <option value="06">06</option>
+                                            <option value="07">07</option>
+                                            <option value="08">08</option>
+                                        </select>
+                                        <span asp-validation-for="LeaveHours" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group" id="multiple_days_group">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="StartDate">Start Date <span class="text-danger">*</span></label>
+                                        <input type="date" asp-for="StartDate" class="form-control" placeholder="Start Date">
+                                        <span asp-validation-for="StartDate" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label for="EndDate">End Date <span class="text-danger">*</span></label>
+                                        <input type="date" asp-for="EndDate" class="form-control" placeholder="End Date">
+                                        <span asp-validation-for="EndDate" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label for="Reason">Reason <span class="text-danger">*</span></label>
+                                    <textarea asp-for="Reason" class="form-control" placeholder="Reason for Leave"></textarea>
+                                    <span asp-validation-for="Reason" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="text-right">
+                                    <a class="btn btn-warning" type="button" asp-action="Leaves" asp-controller="Admin" class="btn btn-comfly-secondary" style="width: 120px;">Back</a>
+                                    <button type="submit" class="btn" style="background-color:#4b545c;color:white; width: 120px;" id="btnSave" name="Save">Save</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>

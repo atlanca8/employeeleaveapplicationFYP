@@ -1,0 +1,70 @@
+﻿@model LeavePortal.Models.LeaveType
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Dashborad</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="@Url.Action("LeaveTypes","Admin")">Leave Types </a></li>
+                    <li class="breadcrumb-item active">Add</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-8 offset-2">
+                <div class="card">
+                    <div style="background-color:#4b545c;" class="card-header">
+                        <p style="font-size:larger;color:white" class="text-left">Add Leave Type</p>
+                    </div>
+                    <div class="card-body">
+                        <form asp-action="AddLeaveType" method="post">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-group">
+                                <label asp-for="LeaveTypeName" class="control-label"></label>
+                                <input asp-for="LeaveTypeName" class="form-control" />
+                                <span asp-validation-for="LeaveTypeName" class="text-danger"></span>
+                            </div>  
+                            <div class="form-group">
+                                    <label for="Name">Status<span class="text-danger">*</span></label>
+                                    <select asp-for="Status" class="form-control">
+                                        <option selected disabled>Select Option</option>
+                                        <option value="True">Active</option>
+                                        <option value="False">Disabled</option>
+
+                                    </select>
+                                    <span asp-validation-for="Status" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <div class="text-right">
+                                    <a class="btn btn-warning" type="button" asp-action="LeaveTypes" asp-controller="Admin" class="btn btn-comfly-secondary" style="width: 120px;">Back</a>
+                                    <button type="submit" class="btn" style="background-color:#4b545c;color:white; width: 120px;" id="btnSave" name="Save">
+                                        Save
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

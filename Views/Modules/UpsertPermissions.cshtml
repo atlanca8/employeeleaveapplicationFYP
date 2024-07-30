@@ -1,0 +1,91 @@
+﻿
+@model LeavePortal.Utility.PermissionVM
+
+@{
+    int counter = 0;
+}
+
+<br />
+<br />
+<section class="content">
+    <div class="container-fluid">
+        <table class="table table-bordered table-striped" style="">
+            <div class=" d-flex justify-content-end align-items">
+                <a asp-controller="Admin" asp-action="Employees" class="btn btn-primary btn-sm pull-right">
+                    Back to Users
+                </a>
+            </div>
+            <thead>
+                <tr>
+                    <th>Sr#</th>
+                    <th>Modules </th>
+                    <th>Permissions </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model.Module)
+                {
+                    counter = counter + 1;
+                    <tr>
+                        <td width="1%">@counter</td>
+                        <td width="40%">
+                            @obj.ModuleName
+                        </td>
+                        @{
+                            var permissions = Model.ModulePermissions.ContainsKey(obj.ModuleId)
+                            ? Model.ModulePermissions[obj.ModuleId]
+                            : null;
+                            var check = "";
+                            if (permissions == null)
+                            {
+                                <td width="30%">
+                                    <div class="form-check form-switch">
+                                        <input class="form-check-input" type="checkbox" id="checkbox_@obj.ModuleId,@Model.UserId" name="ModuleId" value="true" @check>
+                                        <label class="form-check-label" for=""></label>
+                                    </div>
+                                </td>
+                            }
+                            else
+                            {
+                                if (permissions.ModuleId == obj.ModuleId)
+                                {
+                                    check = "checked";
+                                }
+                                <td width="30%">
+                                    <div class="form-check form-switch">
+                                        <input type="hidden" name="Module[]" value="false" />
+                                        <input class="form-check-input" type="checkbox" id="checkbox_@obj.ModuleId,@Model.UserId" name="ModuleId" value="true" @check>
+                                        <label class="form-check-label" for="module_@permissions.ModuleId"></label>
+                                    </div>
+                                </td>
+                            }
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
+
+@section Scripts{
+    <script>
+        $(document).on("change", ".form-check-input", function () {
+            var checkboxId = $(this).attr('id');
+            var ids = checkboxId.split(',');
+            var objId = ids[0].substring(9);
+            var userId = ids[1];
+
+            $.post('/Modules/UpsertPermissionsPost',
+                {
+                    userId: userId,
+                    moduleId: objId,
+                    status: $(this).is(':checked') ? 1 : 0
+                },
+                function (data) {
+                    if (data.success == true) {
+                        $.notify("Status Changed Successfully", "success");
+                    }
+                });
+        });
+    </script>
+}

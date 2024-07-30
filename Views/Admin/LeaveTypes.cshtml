@@ -1,0 +1,69 @@
+﻿@model IEnumerable<LeavePortal.Models.LeaveType>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Dashborad</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="@Url.Action("Index","Admin")">Home</a></li>
+                    <li class="breadcrumb-item active">Leave Types</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+
+<div class="container">
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title" style="float: left">List of Leave Types</h3>
+                        <a asp-action="AddLeaveType" style="float: right;" class="btn btn-primary btn-sm">Add New Leave Types</a>
+                    </div>
+                    <div class="card-body">
+                        <table  width="100%" class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Status</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.LeaveTypeName</td>
+                                        <td>@item.Status</td>
+                                        <td>
+                                            <a asp-action="EditLeaveType" asp-route-id="@item.LeaveTypeId" class="btn btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                            <a href="javascript:void(0)" onclick="Delete(@item.LeaveTypeId)" class="btn btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    
+}

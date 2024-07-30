@@ -1,0 +1,227 @@
+﻿@model LeavePortal.Utility.User
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+
+    #CategoryList > li > label {
+        display: inline-block;
+        font-weight: 400 !important;
+    }
+
+    .preview-image-wrapper {
+        background: #fafbfc;
+        border: 1px solid rgba(195, 207, 216, .3);
+        display: inline-block;
+        height: 150px;
+        max-height: 150px;
+        max-width: 150px;
+        min-height: 150px;
+        min-width: 150px;
+        overflow: hidden;
+        position: relative;
+        text-align: center;
+        vertical-align: middle;
+        width: 150px;
+    }
+
+        .preview-image-wrapper img {
+            height: 150px;
+            max-width: 100%;
+        }
+
+    .btn_remove_image,
+    .btn_remove {
+        background: #ddd;
+        border-radius: 50% !important;
+        color: #000;
+        display: inline-block;
+        font-size: 18px;
+        height: 30px;
+        line-height: 30px;
+        position: absolute;
+        right: 5px;
+        text-align: center;
+        top: 5px;
+        width: 30px;
+    }
+
+    .image-box-actions a {
+        color: #337ab7 !important;
+        text-shadow: none !important;
+    }
+
+    .card-danger:not(.card-outline) > .card-header {
+        background-color: #4b545c !important;
+    }
+
+    #image_preview {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(160px, 160px));
+        width: 100%;
+        gap: 20px;
+    }
+
+    .image-box-actions {
+        text-align: center;
+        margin: 10px 0;
+    }
+
+        .image-box-actions a {
+            border: 1px solid #eee;
+            padding: 5px 20px;
+            text-transform: uppercase;
+            font-size: 14px;
+        }
+
+            .image-box-actions a:hover {
+                box-shadow: 1px 1px 180px #dc3545 inset;
+                color: #fff !important;
+            }
+
+    input[type="checkbox"] {
+        transform: scale(1.5);
+        margin-right: 15px;
+    }
+</style>
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Dashborad</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="@Url.Action("Employees","Admin")">Employees </a></li>
+                    <li class="breadcrumb-item active">Add</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="content">
+    <div class="container-fluid">
+        <form id="form" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-danger">
+                        <div class="card-header">
+                            <h3 class="card-title">Add Employee</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body">
+
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="Name">Name  <span class="text-danger">*</span></label>
+                                        <input type="text" asp-for="Name" class="form-control" placeholder="Name">
+                                        <span asp-validation-for="Name" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label for="Name">Company Email<span class="text-danger">*</span></label>
+                                        <input type="email" asp-for="Email" class="form-control" placeholder="Company Email">
+                                        <span asp-validation-for="Email" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="Name">NRIC No <span class="text-danger">*</span></label>
+                                        <input type="text" asp-for="NRICNo" class="form-control" placeholder="NRIC No">
+                                        <span asp-validation-for="NRICNo" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label for="Name">Department <span class="text-danger">*</span></label>
+                                        <select asp-for="DepartmentID" class="form-control" asp-items="@ViewBag.Department">
+                                            <option selected disabled>Select Department</option>
+                                        </select>
+                                        <span asp-validation-for="DepartmentID" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label for="Name">Employee Position <span class="text-danger">*</span></label>
+                                        <select asp-for="UserRole" class="form-control" asp-items="@ViewBag.Roles">
+                                            <option selected disabled>Select Position</option>
+                                        </select>
+                                        <span asp-validation-for="UserRole" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label for="Name">Active?<span class="text-danger">*</span></label>
+                                        <select asp-for="IsActive" class="form-control">
+                                            <option selected disabled>Select Option</option>
+                                            <option value="True">Yes</option>
+                                            <option value="False">No</option>
+
+                                        </select>
+                                        <span asp-validation-for="IsActive" class="text-danger"></span>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label for="Name">Total Annual Leaves<span class="text-danger">*</span></label>
+                                        <input type="number" asp-for="AllocatedLeaves" class="form-control" placeholder="Annual Leaves">
+                                        <span asp-validation-for="AllocatedLeaves" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="Name">Start Date <span class="text-danger">*</span></label>
+                                        <input type="date" asp-for="startDate" class="form-control" placeholder="Start Date">
+                                        <span asp-validation-for="startDate" class="text-danger"></span>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <label for="Name">Phone Number<span class="text-danger">*</span></label>
+                                        <input type="number" asp-for="MobileNumber" class="form-control" placeholder="Phone No">
+                                        <span asp-validation-for="MobileNumber" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="Name">Password<span class="text-danger">*</span></label>
+                                        <input type="password" asp-for="Password" class="form-control" placeholder="Password">
+                                        <span asp-validation-for="Password" class="text-danger"></span>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <label for="Name">Confirm Password <span class="text-danger">*</span></label>
+                                        <input type="password" asp-for="ConfirmPassword" class="form-control" placeholder="Confirm Password">
+                                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="text-right">
+                                    <a class="btn btn-warning" type="button" asp-action="Employees" asp-controller="Admin" class="btn btn-comfly-secondary" style="width: 120px;">Back</a>
+                                    <button type="submit" class="btn" style="background-color:#4b545c;color:white; width: 120px;" id="btnSave" name="Save">
+                                        Save
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
